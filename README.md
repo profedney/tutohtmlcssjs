@@ -6,6 +6,8 @@ Criando e publicando uma pagina WEB sem baixar nada
 
 
 Este Tutorial em vídeo: https://youtu.be/IQCEUfungAo?si=CRrbjalXOk0Z2sWK
+
 Repositório deste Tutorial: https://github.com/profedney/tutohtmlcssjs 
+
 Página deste tutorial: https://profedney.github.io/tutohtmlcssjs/ 
 
