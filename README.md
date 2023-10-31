@@ -99,9 +99,9 @@ Clique em "Save".
 Agora, aguarde alguns minutos até que a página seja publicada. Depois, você poderá acessá-la usando o link que aparecerá na seção "Pages" das configurações do seu repositório.
 E é isso! Você acabou de criar e publicar sua página web sem precisar baixar nada. Agora, você pode compartilhar o link com outras pessoas e mostrar seu trabalho ao mundo. Divirta-se criando! 😎🌐🚀
 
-Este Tutorial em vídeo: https://youtu.be/IQCEUfungAo?si=CRrbjalXOk0Z2sWK
-Repositório deste Tutorial: https://github.com/profedney/tutohtmlcssjs 
-Página deste tutorial: https://profedney.github.io/tutohtmlcssjs/ 
+* Este Tutorial em vídeo: https://youtu.be/IQCEUfungAo?si=CRrbjalXOk0Z2sWK
+* Repositório deste Tutorial: https://github.com/profedney/tutohtmlcssjs 
+* Página deste tutorial: https://profedney.github.io/tutohtmlcssjs/ 
 
 O que achou do tutorial? Foi útil? te ajudou de alguma forma? sugestões para o próximo tutorial?
 
